@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Dataset contents
+dataset/*
+!dataset/README.md
+
+# Raw / generated datasets
+RDD2022/
+RDD2022-India-5/
+RDD2022_India_4Class_Master/
+RDD2022_India_YOLO/
+
+# Model weights
+*.pt
+*.pth
+*.h5
+*.keras
+*.ckpt
+*.onnx
+
+# Training outputs
+runs/
+wandb/
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
