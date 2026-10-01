@@ -1,0 +1,20 @@
+# Core
+numpy
+pandas
+Pillow
+matplotlib
+
+# PyTorch / Faster R-CNN / DETR
+torch
+torchvision
+transformers
+pycocotools
+
+# YOLOv8
+ultralytics
+
+# TensorFlow / SSD-MobileNetV2
+tensorflow
+
+# Evaluation
+scikit-learn
